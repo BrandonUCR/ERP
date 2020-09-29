@@ -1,0 +1,15 @@
+C:\Users\50683\source\repos\PantallaPrinciaplModerna\bin\Debug\PantallaPrinciaplModerna.exe.config
+C:\Users\50683\source\repos\PantallaPrinciaplModerna\bin\Debug\PantallaPrinciaplModerna.exe
+C:\Users\50683\source\repos\PantallaPrinciaplModerna\bin\Debug\PantallaPrinciaplModerna.pdb
+C:\Users\50683\source\repos\PantallaPrinciaplModerna\bin\Debug\PantallaPrinciaplModerna.xml
+C:\Users\50683\source\repos\PantallaPrinciaplModerna\obj\Debug\PantallaPrinciaplModerna.vbprojAssemblyReference.cache
+C:\Users\50683\source\repos\PantallaPrinciaplModerna\obj\Debug\PantallaPrinciaplModerna.Resources.resources
+C:\Users\50683\source\repos\PantallaPrinciaplModerna\obj\Debug\PantallaPrinciaplModerna.vbproj.GenerateResource.cache
+C:\Users\50683\source\repos\PantallaPrinciaplModerna\obj\Debug\PantallaPrinciaplModerna.vbproj.CoreCompileInputs.cache
+C:\Users\50683\source\repos\PantallaPrinciaplModerna\obj\Debug\PantallaPrinciaplModerna.exe
+C:\Users\50683\source\repos\PantallaPrinciaplModerna\obj\Debug\PantallaPrinciaplModerna.xml
+C:\Users\50683\source\repos\PantallaPrinciaplModerna\obj\Debug\PantallaPrinciaplModerna.pdb
+C:\Users\50683\source\repos\PantallaPrinciaplModerna\obj\Debug\PantallaPrinciaplModerna.FormPrincipal.resources
+C:\Users\50683\source\repos\PantallaPrinciaplModerna\obj\Debug\PantallaPrinciaplModerna.Form1.resources
+C:\Users\50683\source\repos\PantallaPrinciaplModerna\obj\Debug\PantallaPrinciaplModerna.Form2.resources
+C:\Users\50683\source\repos\PantallaPrinciaplModerna\obj\Debug\PantallaPrinciaplModerna.Form3.resources
